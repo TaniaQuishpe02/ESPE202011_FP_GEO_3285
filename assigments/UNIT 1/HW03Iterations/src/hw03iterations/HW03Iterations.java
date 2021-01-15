@@ -24,10 +24,12 @@ public class HW03Iterations {
             System.out.println("9 * " +j+ " = "+product);
             
         
-        
-       
-            
-      }
-         
-}
-}
+        double celsius;
+        System.out.printf(" ºF \t  ºC \n");
+        System.out.println("---------------");
+        for (int fahrenheit = 10; fahrenheit <= 100; fahrenheit+= 10) {                                           
+             celsius = (fahrenheit - 32)*5/9.0;
+             System.out.printf("%HW3d\t%6.2f \n", fahrenheit, celsius);
+        }
+    }
+
