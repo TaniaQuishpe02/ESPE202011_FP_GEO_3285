@@ -71,7 +71,7 @@ public class WS04LogicalOperators {
          
          p = true;
          q = false;
-         System.out.println(" ( " + p + " v " + q + " ) " + (p || q));
+         System.out.println(" ( " + p + " v " + q + " ) " + (p || q)) 
          
         
        
