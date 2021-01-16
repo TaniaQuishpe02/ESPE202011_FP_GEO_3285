@@ -43,6 +43,10 @@ public class Ws05lterations {
         for (int fahrenheit = 10; fahrenheit <= 100; fahrenheit+= 10) {                                           
              celsius = (fahrenheit - 32)*5/9.0;
              System.out.printf("%HW3d\t%6.2f \n", fahrenheit, celsius);
+             
+            
+             
+             
         }
     }
 }
