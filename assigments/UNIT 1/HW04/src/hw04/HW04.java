@@ -79,7 +79,8 @@ public class HW04  {
 
             }
 
-        } while (option != 10);
+        } while (option != 6);
+        
 
     }
 }
