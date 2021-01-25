@@ -12,7 +12,7 @@ class Main {
         do{
             System.out.println("Elija una opcion:\n1. Tabla de multiplicar del 6 \n0. Salir");
             System.out.print("Opcion: ");
-            opc=leer.nextInt();
+            opc=leer.nextInt();1
             switch (opc) {
                 case 1: System.out.print("*/*/*/*/*/ Caso 1 */*/*/*/*/*/ \n");
                 int top=12;

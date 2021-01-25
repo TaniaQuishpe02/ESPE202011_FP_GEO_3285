@@ -59,7 +59,7 @@ public class HW04  {
                     System.out.println("Enter altura");
                     altura = input.nextInt();
             int area6 = base*altura; 
-            System.out.println("The area of a rectangle");
+            System.out.println("The area of a rectangle: "+area6);
                     break;
                 case 4:
                     double arista;
