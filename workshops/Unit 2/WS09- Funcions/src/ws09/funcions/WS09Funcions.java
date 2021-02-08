@@ -17,13 +17,13 @@ public class WS09Funcions {
     public static void main(String[] args) {
         // call to divideTwoNumbers() funtion 
         int divd = 5;
-        int divr = 10;
+        int divisor = 10;
         float quotient = 0;
         int x = 0;
         int y = 0;
 
         //call to divideTwoNumbers() function
-        quotient = divideTwoNumbers(divd, divr);
+        quotient = divideTwoNumbers(divd, divisor);
 
         System.out.println("Quotient of 5 and 10 is -> " + quotient); //0.5 or ?
 
@@ -66,6 +66,17 @@ public class WS09Funcions {
         y = x * x + 2 * x + 1;
 
         return y;
+    }
+    public static int Factorial(int n){
+        if (n >= 0) {
+        } else {
+            return -1;
+        }else {
+                if (n==0){
+                return
+                }
+        return (n * factorial (n -1));
+        }
     }   
 }
     

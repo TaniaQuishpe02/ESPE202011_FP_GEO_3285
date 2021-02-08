@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package hw10;
 
 import java.util.Scanner;
@@ -90,7 +86,7 @@ public class HW10 {
 
         int resultreturn2=1;
         int factor;
-        for (factor = 1; factor <= 12; factor++) {
+        for (factor = 1; factor <= 22; factor++) {
             resultreturn2=parameter3*factor;
             System.out.println(parameter3 + " x " + factor + " = " + resultreturn2);
         }
@@ -132,6 +128,6 @@ public class HW10 {
         return resultreturn2;
     }
 }
-        // TODO code application logic here
+        
     
    

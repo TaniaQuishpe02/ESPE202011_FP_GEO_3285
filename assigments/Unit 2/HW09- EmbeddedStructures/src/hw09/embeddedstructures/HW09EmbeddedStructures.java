@@ -71,6 +71,7 @@ public class HW09EmbeddedStructures {
             
         } while (option != 'L');
         System.out.println("<---Bye--->");
+        
     }
 }
     
