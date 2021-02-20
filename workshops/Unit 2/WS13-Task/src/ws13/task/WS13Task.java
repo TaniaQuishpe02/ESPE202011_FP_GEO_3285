@@ -23,6 +23,7 @@ public class WS13Task {
         do{
             System.out.println();
             System.out.println();
+            System.out.println(" ======== Tania Lizeth Quishpe Caiza  ========= ");
             System.out.println(" ======== OPTION MENU ========= ");
             System.out.println(" ======== welcome friend ========= ");
             System.out.println(" ======== 1. Diamond         ========= ");
