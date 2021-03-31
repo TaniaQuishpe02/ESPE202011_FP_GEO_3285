@@ -1,0 +1,7 @@
+Sasho ,Black,6,1.36
+Sasho ,Black,6,1.35
+Sasho ,Rlond,6,1.36
+Sasho ,Rlond,6,1.35
+Sasho ,Rlond,6,1.35
+Zeus  ,Black,2,1.2
+Sasho ,Rlond,6,1.25
